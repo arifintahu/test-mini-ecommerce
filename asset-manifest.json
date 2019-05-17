@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-mini-ecommerce/static/css/main.d5cc20b0.chunk.css",
+    "main.js": "/test-mini-ecommerce/static/js/main.1ce1f860.chunk.js",
+    "main.js.map": "/test-mini-ecommerce/static/js/main.1ce1f860.chunk.js.map",
+    "runtime~main.js": "/test-mini-ecommerce/static/js/runtime~main.bcffbe41.js",
+    "runtime~main.js.map": "/test-mini-ecommerce/static/js/runtime~main.bcffbe41.js.map",
+    "static/css/2.266e55a5.chunk.css": "/test-mini-ecommerce/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b3c170be.chunk.js": "/test-mini-ecommerce/static/js/2.b3c170be.chunk.js",
+    "static/js/2.b3c170be.chunk.js.map": "/test-mini-ecommerce/static/js/2.b3c170be.chunk.js.map",
+    "index.html": "/test-mini-ecommerce/index.html",
+    "precache-manifest.e0d12da14a2a53ff3cfa4c5334bf1154.js": "/test-mini-ecommerce/precache-manifest.e0d12da14a2a53ff3cfa4c5334bf1154.js",
+    "service-worker.js": "/test-mini-ecommerce/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/test-mini-ecommerce/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d5cc20b0.chunk.css.map": "/test-mini-ecommerce/static/css/main.d5cc20b0.chunk.css.map"
+  }
+}
